@@ -10,7 +10,7 @@ ModularGrid.GUI = {
 	togglerElement: null,
 
 	paneElement: null,
-	paneShowing: false,
+	paneShowing: true,
 
 	checkboxes: {},
 
@@ -59,8 +59,6 @@ ModularGrid.GUI = {
 		self.paneElement = document.createElement("div");
 
 		var currentStyle = self.params.pane.style;
-		currentStyle.display = 'none';
-
 		var styleValue = ModularGrid.Utils.createStyleValue(currentStyle, {});
 		self.paneElement.setAttribute("style", styleValue);
 

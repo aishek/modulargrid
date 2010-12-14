@@ -32,16 +32,16 @@ ModularGrid.GUI.defaults = {
 		},
 
 		labels: {
-			guides: "гайды",
-			image: "изображение-макет",
-			size: "выберите размер",
+			guides: 'гайды <span style="color:#555;font-size:80%;margin-left:0.75em">Ctrl + ;</span>',
+			size: 'выберите размер (Shift + r)',
 			grid: {
-				all: "сетка",
-				font: "шрифтовая",
-				vertical: "вертикальная",
-				horizontal: "горизонтальная"
+				all: 'сетка <span style="color:#555;font-size:80%;margin-left:0.75em">Ctrl + \'</span>',
+				font: 'шрифтовая <span style="color:#555;font-size:80%;margin-left:0.75em">Shift + f</span>',
+				vertical: 'вертикальная <span style="color:#555;font-size:80%;margin-left:0.75em">Shift + v</span>',
+				horizontal: 'горизонтальная <span style="color:#555;font-size:80%;margin-left:0.75em">Shift + h</span>'
 			},
-			opacity: "прозрачность"
+			image: 'изображение-макет <span style="color:#555;font-size:80%;margin-left:0.75em">Ctrl + \</span>',
+			opacity: 'прозрачность'
 		}
 	}
 
