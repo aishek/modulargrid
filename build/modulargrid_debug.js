@@ -1689,7 +1689,7 @@ ModularGrid.GUI.defaults = {
 				vertical: 'вертикальная <span style="color:#555;font-size:80%;margin-left:0.75em">Shift + v</span>',
 				horizontal: 'горизонтальная <span style="color:#555;font-size:80%;margin-left:0.75em">Shift + h</span>'
 			},
-			image: 'изображение-макет <span style="color:#555;font-size:80%;margin-left:0.75em">Ctrl + \</span>',
+			image: 'изображение-макет <span style="color:#555;font-size:80%;margin-left:0.75em">Ctrl + \\</span>',
 			opacity: 'прозрачность'
 		}
 	}
@@ -2246,6 +2246,10 @@ ModularGrid.init(
 					{
 						width: 1024,
 						height: 768
+					},
+					{
+						width: 1280,
+						height: 1024
 					}
 				]
 		},
