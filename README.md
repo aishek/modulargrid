@@ -266,13 +266,13 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Дополнительная информация
 
 ### Цикл статей Алексея Черенкевича по модульным сеткам
-1. [http://cherenkevich.livejournal.com/38085.html 38 попугаев (Введение)]
+1. [38 попугаев (Введение)](http://cherenkevich.livejournal.com/38085.html)
 2. Алгоритм построения модульной сетки. Оптика и геометрия
-  2.1 [http://cherenkevich.livejournal.com/38353.html Алгоритм]
-  2.2 [http://cherenkevich.livejournal.com/38454.html Микромодуль и оптические компенсации]
-  2.3 [http://cherenkevich.livejournal.com/38839.html Особенности работы с модульной сеткой при разработке «резиновых» сайтов]
-3. [http://cherenkevich.livejournal.com/39461.html PaperGrid — сетка на бумаге]
-4. [http://cherenkevich.livejournal.com/40021.html BrowserGrid — сетка в Фотошопе]
+2.1 [Алгоритм](http://cherenkevich.livejournal.com/38353.html)
+2.2 [Микромодуль и оптические компенсации](http://cherenkevich.livejournal.com/38454.html)
+2.3 [Особенности работы с модульной сеткой при разработке «резиновых» сайтов](http://cherenkevich.livejournal.com/38839.html)
+3. [PaperGrid — сетка на бумаге](http://cherenkevich.livejournal.com/39461.html)
+4. [BrowserGrid — сетка в Фотошопе](http://cherenkevich.livejournal.com/40021.html)
 
 
 ### Другие инструменты для HTML-верстки
